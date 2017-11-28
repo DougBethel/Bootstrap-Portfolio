@@ -1,0 +1,27 @@
+/* CSS Style Elements in addition to Bootstrap*/
+body {
+  background-image: url("../images/dust_scratches.png");
+}
+
+nav {
+  color: #4ba9a5;
+}
+
+.site-footer {
+  color: white;
+  background-color: #666666;
+  text-align: center;
+  padding: 30px;
+  border-top: solid 3px #4ba9a5;
+}
+
+h4 span {
+  position: absolute;
+  margin-top: -50px;
+  width:250px;
+  height: 30px;
+  text-align: center;
+  padding: 3px;
+  color: white;
+  background-color: #4ba9a5;
+}
